@@ -1,0 +1,15 @@
+{
+  "format": "slw-mappack/1",
+  "packs": [
+    {
+      "network_id": "tw",
+      "file": "tw.sqlite",
+      "pack_version": "2026.10-osm",
+      "reference_data_version": "2026.09-tdx",
+      "sha256": "f6637d8b074fa20e21ea59401bf4de9ab053882264e9724fc54809ff323fe84b",
+      "bytes": 94208,
+      "license": "ODbL-1.0",
+      "bbox": [119.25, 21.85, 122.10, 25.35]
+    }
+  ]
+}
